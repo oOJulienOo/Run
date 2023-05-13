@@ -60,7 +60,7 @@ button:hover {
 }
 
 .header-img {
-    background: url(/img/banner.jpg)no-repeat right bottom/cover;
+    background: url(img/banner.jpg)no-repeat right bottom/cover;
 }
 
 .txt-block h1 {
@@ -78,7 +78,7 @@ button:hover {
 }
 
 .magna-img {
-    background: url(/img/img-left.jpg) center/cover;
+    background: url(img/img-left.jpg) center/cover;
 
 }
 
@@ -105,7 +105,7 @@ button:hover {
 }
 
 .tempus-img {
-    background: url(/img/img-right.jpg) center/cover;
+    background: url(img/img-right.jpg) center/cover;
 }
 
 /* -----------form-------- */
