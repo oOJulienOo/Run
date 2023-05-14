@@ -72,7 +72,7 @@ button:hover {
 
 .magna-container {
     display: grid;
-    grid-template-columns: 30% 70%;
+    grid-template-columns: 35% 65%;
     min-height: 500px;
     border-top: solid 1px rgba(59, 59, 59, 0.089);
 }
@@ -93,7 +93,7 @@ button:hover {
 
 .tempus-container {
     display: grid;
-    grid-template-columns: 70% 30%;
+    grid-template-columns: 65% 35%;
     min-height: 500px;
     border-top: solid 1px rgba(59, 59, 59, 0.089);
     border-bottom: solid 1px rgba(59, 59, 59, 0.089);
